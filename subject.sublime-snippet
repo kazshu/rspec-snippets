@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+subject(:${1:name}) { ${2:target} }
+]]></content>
+  <tabTrigger>subj</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>subject(:name) {}</description>
+</snippet>

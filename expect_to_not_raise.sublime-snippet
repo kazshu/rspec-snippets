@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect { ${1} }.to_not raise_error(${2:error})
+]]></content>
+  <tabTrigger>etnr</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>expect to_not raise_error</description>
+</snippet>

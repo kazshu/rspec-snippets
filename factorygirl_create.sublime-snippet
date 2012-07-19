@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+FactoryGirl.create :${1:factory}
+]]></content>
+  <tabTrigger>fc</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>FactoryGirl.create</description>
+</snippet>
